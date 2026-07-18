@@ -83,6 +83,7 @@ MODEL_NUMERIC_FEATURES = [
     "content_age_days",
     "days_since_last_update",
     "ctr",
+    "trend_pct",
     "avg_position",
     "engagement_rate",
     "scroll_rate",
